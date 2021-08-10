@@ -1,29 +1,26 @@
-# insta-clone
 
-**Instagram Cloned Application using Ionic4**
+# Proyecto usando Ionic Marketplace
 
-This is the started kit for Ionic Version 4.
+Se utilizo un proyecto started de un clon de instagram.
 
-It is a reactive data driven application. 
 
-you can easily replace with the existing (JSON) data to your own data.
- 
-After getting the code from here, Please perform the `npm install` using node version 12.
- 
-I'm expecting your valuable feedback.
- 
-Give me a star to this repository. 
 
-You can find this app in **Ionic Market** 
-[https://market.ionicframework.com/starters/instaclone](https://market.ionicframework.com/starters/instaclone)
+### Marketplace
 
-Please share, comment and rating to this app. 
+![image](https://github.com/MCris29/ionic-marketplace-instagram-clon/blob/master/images/marketplace.png)
+![image](https://github.com/MCris29/ionic-marketplace-instagram-clon/blob/master/images/instaclon.png)
 
-Thanks 
+### Instalación
 
-**_Demo Screens_**
+Se descargo el proyecto y se ejecuto el siguiente comando para instalar las dependencias.
 
-![alt text](https://s3.amazonaws.com/ionic-marketplace/instaclone/screenshot_1.png)
-![alt text](https://s3.amazonaws.com/ionic-marketplace/instaclone/screenshot_2.png)
-![alt text](https://s3.amazonaws.com/ionic-marketplace/instaclone/screenshot_3.png)
-![alt text](https://s3.amazonaws.com/ionic-marketplace/instaclone/screenshot_4.png)
+```bash
+  ionic install
+```
+Posterior, se probó el proyecto ejecutando el siguiente comando:
+
+```bash
+  ionic serve
+```
+
+![image](https://github.com/MCris29/ionic-marketplace-instagram-clon/blob/master/images/ionicserve.png)
