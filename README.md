@@ -1,6 +1,12 @@
 
 # Proyecto usando Ionic Marketplace
 
+### Trabajo en grupo
+
+#### Integantes:
+#### • Cristian Mañay
+#### • Patricio Betancourt
+
 Se utilizo un proyecto started de un clon de instagram.
 
 
